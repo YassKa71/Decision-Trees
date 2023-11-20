@@ -9,7 +9,7 @@ We start by a simple regression problem : predition of sinus function. We optimi
 
 We also try a forest regressor. We obtain the following result:
 
-![Alt text](image.png)
+![Alt text](regression.png)
 
 ## Binary classification
 
@@ -17,7 +17,7 @@ We also try a forest regressor. We obtain the following result:
 
  After choosng the best depth fr the classification tree using cross validation, we obtain the following graph.
 
- ![Alt text](image.png)
+ ![Alt text](argviz.png)
 
 As explained in the notebook, this graph shows that young men are more likely to die compared to others especially if they aren't in first class and have a big family size. We can explain that by the fact that women, children, elderly and men with high social status were more protected during the titanic tragedy and their survival was more prioritized.
 
